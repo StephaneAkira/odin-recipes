@@ -113,7 +113,7 @@ step 2 : Spread each slice of bread with mayonnaise. On one slice of toast, plac
 
 # russian-salad description
 
-This Russian salad recipe is what my mom and grandmother make every time there's a family gathering or a special occasion. Leave out the ham to make this a vegetarian dish. The potatoes, carrots, and eggs do not have to be completely chilled after boiling.
+Leave out the ham to make this a vegetarian dish. The potatoes, carrots, and eggs do not have to be completely chilled after boiling.This Russian salad recipe is what my mom and grandmother make every time there's a family gathering or a special occasion.
 
 # russian-salad ingredients
 
